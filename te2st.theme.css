@@ -62,8 +62,6 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: 'Whitney';
-  --code-font: 'Consolas';
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
